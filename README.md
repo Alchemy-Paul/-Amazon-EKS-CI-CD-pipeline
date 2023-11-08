@@ -3,4 +3,4 @@
 
 <h1>mazon-EKS-CI-CD-pipeline</h1>
 
-/home/loski/Desktop/GIthub action Project/src/workflow.png
+![image](<src/workflow.png>)
